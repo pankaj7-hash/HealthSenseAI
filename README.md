@@ -20,7 +20,8 @@
 
 ## 📸 Application Screenshot
 
-![HealthSenseAI Screenshot](screenshots/healthsenseai_main.png)
+![HealthSenseAI Screenshot](<img width="1877" height="910" alt="HealthsenseAI" src="https://github.com/user-attachments/assets/db2f8e7c-d377-49a8-88af-393df719876b" />
+)
 
 ---
 
