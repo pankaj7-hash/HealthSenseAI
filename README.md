@@ -1,4 +1,4 @@
-![HealthSenseAI Banner](assets/banner.png)
+
 
 # 🩺 HealthSenseAI
 
@@ -20,8 +20,8 @@
 
 ## 📸 Application Screenshot
 
-![HealthSenseAI Screenshot](<img width="1877" height="910" alt="HealthsenseAI" src="https://github.com/user-attachments/assets/db2f8e7c-d377-49a8-88af-393df719876b" />
-)
+<img width="1877" height="910" alt="HealthsenseAI" src="https://github.com/user-attachments/assets/18d3f41a-cc27-4fdd-8375-03db3d6c8223" />
+
 
 ---
 
